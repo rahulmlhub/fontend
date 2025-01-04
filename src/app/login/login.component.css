@@ -1,0 +1,14 @@
+.login-container {
+  background-image: url('src/assets/login_background.jpg'); /* Replace 'path_to_your_image.jpg' with the actual path to your image */
+  background-size: cover; /* Cover the entire container with the background image */
+  background-position: center; /* Center the background image */
+  height: 81vh; /* Set the height of the container to full viewport height */
+  display: flex; /* Use flexbox for centering content vertically */
+  align-items: center; /* Center content vertically */
+}
+
+.login-box {
+  background-color: rgba(255, 255, 255, 0.8); /* Add a semi-transparent white background to the login box */
+  padding: 20px; /* Add padding to the login box */
+  border-radius: 10px; /* Add border radius for rounded corners */
+}
